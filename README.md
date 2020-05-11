@@ -1,4 +1,4 @@
-PACT: An Open, Privacy-Preserving Protocol
+An Open, Privacy-Preserving Protocol
 ================================
 * To be effective, automated smartphone-based contact tracing requires an all-hands-on-deck effort to get technology in the hands of a large proportion of the population quickly. First and foremost, this requires a trusted, privacy-preserving approach. And second, the technology must be available across all smartphone platforms to assure broad and equitable deployment.
 
